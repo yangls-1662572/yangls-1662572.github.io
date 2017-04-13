@@ -57,6 +57,11 @@ body{
 	background-color: black;
 	background-image: url('dark_wood.png');
 }
+#bow{
+	color:#FFBC00;
+	font-size: 40px;
+	
+}
 h3{
 color: #FFBC00; font-size: 40px; font-family: "Passion One"; margin-bottom: 0px; 
 }
